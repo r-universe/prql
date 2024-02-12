@@ -1,0 +1,10 @@
+{
+  "id": 47208222,
+  "created_at": "2024-02-12T09:27:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["PRQL.r-universe.dev"]
+}
